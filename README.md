@@ -3,10 +3,12 @@
 </div>
 
 <h2 align="left">Hi 👋! <br/> I'm Monerul Islam Bishal <br/> Full Stack Developer, from Bangladesh </h2>
-
-
-
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
+
+- 🔭 &nbsp;I’m currently Searching for job 😃
+- 🌱 &nbsp;I’m currently learning React Natve & Expo.
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or NextJS/React/Express
+- 👨‍💻 &nbsp;Visit my Portfolio [codewithbishal.dev](https://www.codewithbishal.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
