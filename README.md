@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/monerulmd5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="monerulmd5" width="100" /></a>
-<a href="https://fb.com/monerulmd5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="monerulmd5" width="100" /></a>
-<a href="https://api.whatsapp.com/send/?phone=%2B8801623939834&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="monerulmd5" width="100" /></a>
-<a href="https://instagram.com/monerulmd5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="monerulmd5" width="100" /></a>
+<a href="https://linkedin.com/in/monerulmd5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LInkedIn Link" width="100" /></a>
+<a href="https://fb.com/monerulmd5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="facebook Link" width="100" /></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B8801623939834&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp Link" width="100" /></a>
+<a href="https://instagram.com/monerulmd5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram Link" width="100" /></a>
 </p>
 
 
